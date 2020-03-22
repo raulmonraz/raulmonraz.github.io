@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: raulmonraz.com
+Token: bf773de31cdf17424f937885b889a5fa302eaa2208c3fa843bf835efe9887891
